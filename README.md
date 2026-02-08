@@ -180,5 +180,3 @@ This creates a distributable executable in the `dist/` folder.
 3. Run `npm install`
 4. Run `npm start` to test
 5. Add achievement unlocks to your game using `unlockSteamAchievement()`
-
-Good luck with your Steam integration!
